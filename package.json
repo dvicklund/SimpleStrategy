@@ -1,0 +1,23 @@
+{
+  "name": "simple-strategy",
+  "version": "1.0.0",
+  "description": "A simple graphical strategy game with multicolored boxes as units",
+  "main": "jcanvas.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dvicklund/SimpleStrategy.git"
+  },
+  "keywords": [
+    "game",
+    "strategy"
+  ],
+  "author": "David Vicklund",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dvicklund/SimpleStrategy/issues"
+  },
+  "homepage": "https://github.com/dvicklund/SimpleStrategy#readme"
+}
